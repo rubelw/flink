@@ -10,3 +10,4 @@
 8. Serialization/deserialization powered with Cython
 9. Examples: https://github.com/wdm0006/flink-python-examples
 10. REST client: https://pypi.org/project/flink-rest-client/
+11. Installing Juniper notebook.  https://linuxhostsupport.com/blog/how-to-install-jupyter-on-centos-7/
